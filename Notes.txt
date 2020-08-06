@@ -1,0 +1,1 @@
+{Hello World!}{Currently, spaces are not supported between brackets, nor are paragraph breaks.}{Let's fix that soon.}

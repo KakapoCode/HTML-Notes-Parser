@@ -1,0 +1,11 @@
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\bin\Debug\netcoreapp2.1\HTML Note Converter.deps.json
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\bin\Debug\netcoreapp2.1\HTML Note Converter.runtimeconfig.json
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\bin\Debug\netcoreapp2.1\HTML Note Converter.runtimeconfig.dev.json
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\bin\Debug\netcoreapp2.1\HTML Note Converter.dll
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\bin\Debug\netcoreapp2.1\HTML Note Converter.pdb
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\obj\Debug\netcoreapp2.1\HTML Note Converter.csprojAssemblyReference.cache
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\obj\Debug\netcoreapp2.1\HTML Note Converter.csproj.CoreCompileInputs.cache
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\obj\Debug\netcoreapp2.1\HTML Note Converter.AssemblyInfoInputs.cache
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\obj\Debug\netcoreapp2.1\HTML Note Converter.AssemblyInfo.cs
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\obj\Debug\netcoreapp2.1\HTML Note Converter.dll
+D:\OneDrive\Programming Stuff\C#\HTML Note Converter\obj\Debug\netcoreapp2.1\HTML Note Converter.pdb
