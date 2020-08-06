@@ -10,8 +10,11 @@ For instance, if a user inputs class="mydiv", the result should be: <div class="
 The goal is to do this WITHOUT using String.Replace functionality. I must parse and replace the strings manually.
 
 TODO: Add the HTML tag and style/class information to the parsed strings.
+
 TODO: Remove the empty space (\0?) characters from between code blocks. For instance, {Hello}  {World} should result in {Hello}{World}
-TODO: Test to make sure the notes.txt file exists. How??
+
+TODO: Test to make sure the notes.txt file exists.
+
 TODO: Try to learn more about unit testing, and add unit tests where applicable.
 
 CURRENT ISSUES: The parser does NOT take into account empty characters. Empty characters in the notes are not, as of yet, supported.
