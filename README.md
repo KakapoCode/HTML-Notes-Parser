@@ -13,7 +13,7 @@ It should also support user input for indicating a CSS/HTML class.
 
 For instance, if a user inputs class="mydiv": 
 
-the result should be: <div class="mydiv">Like this</div>
+the result should be: (<div class="mydiv">Like this</div>)
 
 The goal is to do this WITHOUT using String.Replace functionality. I must parse and replace the strings manually.
 
