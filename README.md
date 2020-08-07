@@ -9,12 +9,6 @@ After finding the file, it will parse it looking for chunks of text between brac
 
 It will then replace the brackets with a specified HTML tag. For instance, if <div> is specified, {Like this} will become <div>Like this</div>
   
-It should also support user input for indicating a CSS/HTML class. 
-
-For instance, if a user inputs class="mydiv": 
-
-the result should be: (<div class="mydiv">Like this</div>)
-
 The goal is to do this WITHOUT using String.Replace functionality. I must parse and replace the strings manually.
 
 
